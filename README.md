@@ -1,7 +1,5 @@
 # TIL
 today i learned
-# 인공지능 개발 연습  
-  21/05/13 한국어 OCR구현을 위해서 Tesaract로 이미지에서 word recognization 해보기. 
 
 # 코딩테스트 연습
   ## 1. 2020 알고리즘 연습
@@ -35,6 +33,6 @@ today i learned
   21/05/09 이진탐색 구현  
   21/05/10 장고 웹사이트 만들기 & 앱 만들어보기, 페이지 URL구성해보기 명령어 urls와 app.urls를 활용하여 인덱싱하기  
   21/05/13 Tesaract로 이미지에서 word recognization 해보기. 
-
+  21/05/15 BERT모델로 자연어 문체 예측하기 (dacon)
   
  
