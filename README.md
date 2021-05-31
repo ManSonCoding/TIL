@@ -53,3 +53,4 @@ today i learned
   21/05/26 텍스트 감정 분류하기. - SVM모델 통한 감정분류.  
   21/05/28 텍스트-이모티콘 추출하기 (extract text to emotion),  django로 웹사이트 만들기.  
   21/05/29 django로 웹사이트 구현하기.  
+  21/05/31 Emotion-extract, 감정 예측하는 모델 개발. 및 pyary에 배포
