@@ -54,3 +54,4 @@ today i learned
   21/05/28 텍스트-이모티콘 추출하기 (extract text to emotion),  django로 웹사이트 만들기.  
   21/05/29 django로 웹사이트 구현하기.  
   21/05/31 Emotion-extract, 감정 예측하는 모델 개발. 및 pyary에 배포
+  21/06/02 ICT융합기획 기획서 PPT제작
