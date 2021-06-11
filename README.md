@@ -55,3 +55,4 @@ today i learned
   21/05/29 django로 웹사이트 구현하기.  
   21/05/31 Emotion-extract, 감정 예측하는 모델 개발. 및 pyary에 배포
   21/06/02 ICT융합기획 기획서 PPT제작
+  21/06/11 햄버거 키오스크, OCR 일기장 커밋
